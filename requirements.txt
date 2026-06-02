@@ -1,0 +1,9 @@
+torch
+torchvision
+snntorch
+scipy
+pandas
+numpy
+pillow
+openpyxl
+pyinstaller
